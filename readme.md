@@ -1,3 +1,4 @@
+<p><b>INSTRUCTIONS:</b>you need to move the ItemManager folder to your htdocs folder and run the ItemManager project folder from there</p>
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
